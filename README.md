@@ -76,7 +76,7 @@ Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/c
 
 ## Project info
 
-**Production URL**: [https://your-project-name.vercel.app](https://your-project-name.vercel.app)
+**Production URL**: [performance-tracker-beta.vercel.app](https://performance-tracker-beta.vercel.app/)
 
 ## How can I edit this code?
 
@@ -111,7 +111,7 @@ npm run dev
 The app will be available at:
 
 ```
-http://localhost:5173
+http://localhost:8080
 ```
 
 ---
